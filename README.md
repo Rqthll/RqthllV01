@@ -215,15 +215,15 @@ conn.sendButton(m.chat, 'Hello world!', '@AyGemuy', 'https://github.com/AyGemuy'
 
 ### Thanks To 
 **Allah SWT**,
-
+**Ay Gemuy**,
 **Orang Tua**,
-
+**Rqthll**,
 **Semua yang selalu mendukung**
 
 
 #### Special Thanks to
+[![AyGemuy](https://github.com/Rqthll.png?size=100)](https://github.com/Rqthll)
 [![AyGemuy](https://github.com/AyGemuy.png?size=100)](https://github.com/AyGemuy)
-
 
 ### Base Hinata
 Wudysoft 
